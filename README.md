@@ -8,7 +8,9 @@
 
 ## Running Development Stage
 ```
-git clone https://github.com/nghoanglong/IS220.N12.HTCL.git
+git clone https://github.com/ngocthoai1703/Khanhgia_IS201.M11.HTCL.git
 
 replace localhost of file config.php
+
+run by XAMPP
 ```
